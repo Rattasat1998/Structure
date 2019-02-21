@@ -14,7 +14,7 @@ struct Student{
         age = -99;
         name[0] = '\0';
     }
-};
+}; //kuy
 main (){
     Student s1;
     cout << "id =" << s1.id <<", gpa" << s1.gpa << endl; // Test constructor function
