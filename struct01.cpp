@@ -20,3 +20,4 @@ main (){
     cout << "id =" << s1.id <<", gpa" << s1.gpa << endl; // Test constructor function
     cout << "Hello" << endl;
 }
+kuy
